@@ -13,7 +13,7 @@ I'm Sepehr, A junior full-stack web developer with 7 years of experience in the 
 
 - 📫 How to reach me **sobhani.sepehr@gmail.com**
 
-- 📄 Know about my experiences [Sepehr Sobhani - Resume](https://resume.creddle.io/resume/389khgd0r6s)
+- 📄 Know about my experiences [Resume](https://resume.creddle.io/resume/389khgd0r6s)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
