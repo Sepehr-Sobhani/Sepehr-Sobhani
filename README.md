@@ -7,7 +7,7 @@
 
 I'm Sepehr, A junior full-stack web developer with 7 years of experience in the retail business; I became passionate about making changes and generating significant revenue in this field, So with the knowledge of building good customer relationships, I found the value in doing the same with user interfaces and programming was the only way to achieve it. I am an avid learner, quick to grasp new technologies, design efficient and scalable products.
 
-- 🌱 I’m currently learning ** Alpine JS **
+- 🌱 I’m currently learning ** TypeScript **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sepehr-Sobhani](https://github.com/Sepehr-Sobhani)
 
