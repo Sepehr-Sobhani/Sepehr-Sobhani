@@ -5,7 +5,8 @@
 
 <br />
 
-I'm Sepehr, A junior full-stack web developer with 7 years of experience in the retail business; I became passionate about making changes and generating significant revenue in this field, So with the knowledge of building good customer relationships, I found the value in doing the same with user interfaces and programming was the only way to achieve it. I am an avid learner, quick to grasp new technologies, design efficient and scalable products.
+I'm Sepehr, a Full-stack Developer with 2+ years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer.
+
 
 - 🌱 I’m currently learning ** TypeScript **
 
