@@ -14,7 +14,7 @@ I'm Sepehr, a Full-stack Developer with 3+ years of hands-on experience designin
 
 - 📫 How to reach me **sobhani.sepehr@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://resume.creddle.io/resume/389khgd0r6s) or [Portfolio](https://sepehr-sobhani.netlify.app)
+- 📄 Know about my experiences [Resume](https://resume.creddle.io/resume/389khgd0r6s) or [Portfolio](https://sepehr-sobhani.herokuapp.com/)
 
 
 <h3 align="left">Connect with me:</h3>
