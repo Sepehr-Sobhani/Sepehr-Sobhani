@@ -37,4 +37,4 @@ I'm Sepehr, a Full-stack Developer with 3+ years of hands-on experience designin
 
 📊 Stats
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Sepehr-Sobhani&show_icons=true&locale=en&theme=gruvbox" alt="SepehrSobhani" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sepehr-Sobhani&theme=gruvbox" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sepehr-Sobhani&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="SepehrSobhani" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Sepehr-Sobhani&show_icons=true&locale=en&theme=gruvbox" alt="SepehrSobhani" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sepehr-Sobhani&theme=gruvbox" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sepehr-Sobhani&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="SepehrSobhani" /></p>
