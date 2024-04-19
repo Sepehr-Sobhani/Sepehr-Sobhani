@@ -24,10 +24,10 @@ I'm Sepehr, a Full-stack Developer with 3+ years of hands-on experience designin
 ---
 <div align="center" dir="auto">
     <a href="mailto:sobhani.sepehr@gmail.com">
-        <img src="https://camo.githubusercontent.com/a6ed33b08559b895ae058aa38af75c0663debfe70d7668b70407c9d4e26c1bbf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4541343333353f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Sepehr's Gmail" data-canonical-src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Sepehr's Gmail" data-canonical-src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/sepehr-sobhani/" rel="nofollow">
-        <img src="https://camo.githubusercontent.com/e4ef3b1348f6ebccab6653d23630c12446ee790f59003e0bdcaf31f7e8b34c42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Sepehr's LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="Sepehr's LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
     </a>
 </div>
 
